@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\VR\\New folder\\SKD\\samples\\videovr\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "E:\\VR\\New folder\\SKD\\samples\\videovr\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "E:\\VR\\New folder\\SKD\\samples\\videovr\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vuforia_splash.png",
+        "source": "E:\\VR\\New folder\\SKD\\samples\\videovr\\app\\src\\main\\res\\drawable\\vuforia_splash.png"
+    },
+    {
+        "merged": "E:\\VR\\New folder\\SKD\\samples\\videovr\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "E:\\VR\\New folder\\SKD\\samples\\videovr\\app\\src\\main\\res\\drawable\\logo.png"
+    }
+]
